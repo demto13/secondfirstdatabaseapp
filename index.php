@@ -8,4 +8,6 @@
 
 printf("%n%s", "This will be another trial for an app which will use databases");
 
+echo "This is another another trial for database usage in an app";
+
 ?>
